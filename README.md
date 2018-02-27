@@ -3,6 +3,6 @@
 
 可以打开html文件和js文件进行修改的
 
-效果如下图:
+效果如附件images文件夹所示:
 
-![avatar](\images\xg.png)
+#![avatar](\images\xg.png)

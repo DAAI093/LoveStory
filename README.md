@@ -5,4 +5,3 @@
 
 效果如附件images文件夹所示:
 
-#![avatar](\images\xg.png)
